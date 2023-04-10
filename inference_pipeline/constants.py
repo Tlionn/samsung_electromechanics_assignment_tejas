@@ -1,0 +1,10 @@
+DETECTION_MODEL_PATH = '/opt/EAST-tf2/east_resnet_50_rbox/'
+CROPS_SAVE_PATH = '/opt/output_data/crops'
+DETECTION_VIZ_PATH = '/opt/output_data/detection/'
+DETECTION_VIZ = True
+DELETE_IMAGES_AFTER_PROCESSING = False
+CONFIG_YAML_PATH = "/opt/temp_recog_models/configs.yaml"
+RECOGNITION_VIZ = True
+RECOGNITION_VIZ_PATH = '/opt/output_data/recognition/'
+VIZ_FULL = True
+VIZ_FULL_PATH = "/opt/output_data/full/"
